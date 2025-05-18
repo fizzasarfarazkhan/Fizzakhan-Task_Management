@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\BackendTask\obj\Debug\net8.0\BackendTask.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BackendTask\obj\Debug\net8.0\BackendTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\BackendTask\obj\Debug\net8.0\BackendTask.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\BackendTask\obj\Debug\net8.0\BackendTask.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\BackendTask\obj\Debug\net8.0\BackendTask.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BackendTask\obj\Debug\net8.0\BackendTask.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\source\repos\BackendTask\obj\Debug\net8.0\BackendTask.MvcApplicationPartsAssemblyInfo.cache
